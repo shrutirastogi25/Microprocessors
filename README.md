@@ -12,9 +12,9 @@
 ---
 
 ### DosBox Commands:
-_masm filename.asm_
-_link filename_
-_filename_
+1. _masm filename.asm_
+2. _link filename_
+3. _filename_
 
 ---
 
